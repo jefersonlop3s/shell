@@ -231,4 +231,4 @@ else
     echo "**Não existem processos Docker neste sistema**"
 fi
 echo "________________________________________________________________________________ "
-echo "Análises Finalisadas "
+echo "Análises Finalizadas "
