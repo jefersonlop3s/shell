@@ -8,6 +8,8 @@ A execução deste script analisará o host em que for executado, trazendo infor
 
 Em seu terminal Linux:
 
-'''sh catatudo.sh > $(hostname).md'''
+```
+sh catatudo.sh > $(hostname).md
+```
 
 O com isto, teremos um relatório em um arquivo markdown com o nome do host com as informações extraídas do sistema.
